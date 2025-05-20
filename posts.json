@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "title": "Understanding Bitcoin", "content": "Bitcoin is a decentralized currency..." },
+    { "title": "What is Ethereum?", "content": "Ethereum allows smart contracts on blockchain..." }
+  ]
+}
